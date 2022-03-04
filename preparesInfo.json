@@ -1,1 +1,1 @@
-{"password":1234,"cmdName":"login","userName":"player"}
+{"version":"1.0.0","wsserver":"ws://156.248.77.156:16018/ckpay-server/websocket","fileserver":"http://156.248.77.156:16016/ckfile-server/correspond.do"}
